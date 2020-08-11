@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>b6294322-e7b8-49b2-bf5f-0170fc9daeb3</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>dcgan.py</StartupFile>
+    <StartupFile>wgan_gp.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
